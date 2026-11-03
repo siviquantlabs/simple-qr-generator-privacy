@@ -1,6 +1,6 @@
 # Privacy Policy for Simple QR Generator
 
-**Last Updated: October 31, 2026**
+**Last Updated: November 2, 2026**
 
 ## Overview
 
@@ -11,6 +11,7 @@ Simple QR Generator ("the App") is developed by Rahil Tiwari. This policy explai
 - **Content you enter** (web addresses, Wi-Fi details, contact cards, payment IDs and so on) is turned into QR codes on your device. It is never sent anywhere.
 - **Images you scan** (opened files, pasted images or screen captures) are decoded on your device and never uploaded.
 - **Logos you add** are stored inside your saved styles and history on your device.
+- **This PC's Wi-Fi details** (network name, security type and saved password) are read from Windows only when you click "Use this PC's Wi-Fi", only to fill in the Wi-Fi form. They are never sent anywhere. Like anything you type, they are kept in your history and last session on this PC if those settings are on. The App does not use your location; Windows may ask for location permission because it treats Wi-Fi network names as location data.
 
 ## Data stored on your device
 
